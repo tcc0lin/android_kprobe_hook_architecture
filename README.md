@@ -1,1 +1,1 @@
-# android_kprobe_hook_-architecture
+# android_kprobe_hook_architecture
